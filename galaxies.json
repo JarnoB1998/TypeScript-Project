@@ -1,0 +1,75 @@
+[
+  {
+    "id": "GAL-001",
+    "name": "Andromeda",
+    "description": "Andromeda is the nearest spiral galaxy to the Milky Way and is on a collision course with it. It contains billions of stars, numerous exoplanets, and high stellar formation rates.",
+    "discoveryYear": 1984,
+    "isExplored": false,
+    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/TypeScript-Project/refs/heads/main/andromeda-galaxy.webp",
+    "type": "Spiral Galaxy",
+    "diameterLightYears": 220000,
+    "numberOfStars": "1 Trillion",
+    "notableFeatures": [
+      "Supermassive Black Hole",
+      "Dense Star Clusters",
+      "High Star Formation"
+    ],
+    "planets": ["Exo Prime", "Elysium Prime", "Oblivion"]
+  },
+  {
+    "id": "GAL-002",
+    "name": "Milky Way",
+    "description": "The home galaxy of Earth, containing billions of stars, planetary systems, and cosmic phenomena.",
+    "discoveryYear": 0,
+    "isExplored": true,
+    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/TypeScript-Project/refs/heads/main/milky-way-galaxy.webp",
+    "type": "Barred Spiral Galaxy",
+    "diameterLightYears": 105700,
+    "numberOfStars": "100–400 Billion",
+    "notableFeatures": [
+      "Sagittarius A* Black Hole",
+      "Galactic Core",
+      "Spiral Arms"
+    ],
+    "planets": ["Nova Terra", "Infernis", "Celestara"]
+  },
+  {
+    "id": "GAL-003",
+    "name": "Messier 87",
+    "description": "A giant elliptical galaxy known for its supermassive black hole, which was the first to be directly imaged.",
+    "discoveryYear": 1981,
+    "isExplored": false,
+    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/TypeScript-Project/refs/heads/main/messier-87-galaxy.webp",
+    "type": "Elliptical Galaxy",
+    "diameterLightYears": 120000,
+    "numberOfStars": "2.7 Trillion",
+    "notableFeatures": ["Event Horizon Black Hole", "Globular Clusters"],
+    "planets": ["Shadow Haven", "Zephyria", "Draconis V"]
+  },
+  {
+    "id": "GAL-004",
+    "name": "Triangulum",
+    "description": "A member of the Local Group and one of the most distant naked-eye objects visible from Earth.",
+    "discoveryYear": 1984,
+    "isExplored": false,
+    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/TypeScript-Project/refs/heads/main/triangulum-galaxy.webp",
+    "type": "Spiral Galaxy",
+    "diameterLightYears": 60000,
+    "numberOfStars": "40 Billion",
+    "notableFeatures": ["High Gas Density", "Active Star Formation"],
+    "planets": ["Abyssus", "Neon Abyss", "Seraphis"]
+  },
+  {
+    "id": "GAL-005",
+    "name": "Centaurus A",
+    "description": "A peculiar galaxy with an active galactic nucleus and one of the closest radio galaxies to Earth.",
+    "discoveryYear": 1996,
+    "isExplored": false,
+    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/TypeScript-Project/refs/heads/main/centaurus-a-galaxy.webp",
+    "type": "Lenticular Galaxy",
+    "diameterLightYears": 60000,
+    "numberOfStars": "200 Billion",
+    "notableFeatures": ["Jet Emission from Black Hole", "Dust Bands"],
+    "planets": ["Vortex 9", "Cryo-X", "Xerion 12"]
+  }
+]
